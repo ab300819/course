@@ -4,6 +4,8 @@
 
 ## 编程语言
 
+* MSU: [CSE 251 Programming in C](https://www.cse.msu.edu/~cse251/index.html)
+
 ## 计算机网络
 
 ## 操作系统
